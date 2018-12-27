@@ -1,0 +1,10 @@
+# Lines begin with symbol # will not be read as records.
+# The first un-noted and non-empty line stands for capacity.
+# Others are in form of [weight], [value]
+
+8
+4, 4500
+5, 5700
+2, 2250
+1, 1100
+6, 6700
