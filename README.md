@@ -13,11 +13,4 @@ The default file path is the same as the program itself, "*./your-input-file.txt
  - The first  un-noted and non-empty line stands for capacity. 
  - Others are in form of [weight], [value].
 
-The format could be found in file "*./your-input-file.txt*"; or you might follow the sample below:
-
-#This is note.
-[capacity]
-[weight1], [value1]
-[weight2], [value2]
-[weight3], [value3]
-
+The format could be found in file "*./your-input-file.txt*".
